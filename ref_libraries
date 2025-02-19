@@ -1,0 +1,10 @@
+Libraries Used for Jedi Journals
+
+Libararies:
+    axios
+    React-native-vector-icons
+
+
+Commands:
+    npm install axios
+    npm install react-native-vector-icons
